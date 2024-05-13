@@ -18,8 +18,8 @@
   
   <entry>
     <title>测试文章</title>
-    <link href="http://example.com/cn/year/05/12/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
-    <id>http://example.com/cn/year/05/12/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</id>
+    <link href="http://example.com/2024/05/12/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
+    <id>http://example.com/2024/05/12/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</id>
     <published>2024-05-12T06:46:18.000Z</published>
     <updated>2024-05-12T10:04:33.551Z</updated>
     
@@ -39,8 +39,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/cn/year/05/12/hello-world/"/>
-    <id>http://example.com/cn/year/05/12/hello-world/</id>
+    <link href="http://example.com/2024/05/12/hello-world/"/>
+    <id>http://example.com/2024/05/12/hello-world/</id>
     <published>2024-05-12T06:06:56.503Z</published>
     <updated>2024-05-12T06:06:56.503Z</updated>
     
